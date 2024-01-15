@@ -1,0 +1,15 @@
+.root {
+   -fx-background-color: radial-gradient(center 50% 50% , radius 100% , #F56975, #008080);
+
+}
+
+.button {
+	-fx-background-color: #90EE90;
+}
+
+.text {
+  -fx-font-size: 15;
+  -fx-font-family: "DejaVu Sans Mono";
+}
+
+
